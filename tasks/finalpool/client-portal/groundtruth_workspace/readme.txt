@@ -1,1 +1,1 @@
-This is the groundtruth workspace for client-portal
+Groundtruth data for client-portal

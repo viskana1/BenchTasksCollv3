@@ -1,1 +1,1 @@
-This is the initial workspace for media-organizer
+Initial workspace for media-organizer

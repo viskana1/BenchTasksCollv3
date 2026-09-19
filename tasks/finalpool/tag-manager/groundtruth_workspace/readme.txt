@@ -1,1 +1,1 @@
-This is the groundtruth workspace for tag-manager
+Groundtruth data for tag-manager

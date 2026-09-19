@@ -1,1 +1,1 @@
-This is the groundtruth workspace for health-monitor
+Groundtruth data for health-monitor
